@@ -26,7 +26,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,react,mysql,solidity,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,react,mysql,solidity,git,github,vercel&perline=6" />
 </p>
 
 ---
@@ -40,17 +40,6 @@
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Saylee12R&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Saylee12R&bg_color=0d1117&color=58A6FF&line=58A6FF&point=8B949E&area=false&hide_border=true"
-    width="100%"
-  />
 </p>
 
 ---
