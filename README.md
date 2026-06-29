@@ -1,15 +1,6 @@
 
 <h1 align="center">Hi , I'm Saylee ✨</h1>
-<h3 align="center">🚀 B.Tech CSE + Business IIIT Lucknow | Web Developer | Blockchain Enthusiast | Competitive Programmer</h3>
-
----
-
-## 💫 About Me
-
-🎓 B.Tech Computer Science + Business @ IIIT Lucknow  
-🌱 Learning React, Next.js & Blockchain  
-💻 Interested in Web Dev, DSA & Open Source  
-🚀 Hackathon Participant & Builder
+<h3 align="center">B.Tech CSE + Business IIIT Lucknow | Web Developer | Blockchain Enthusiast | Competitive Programmer</h3>
 
 ---
 
