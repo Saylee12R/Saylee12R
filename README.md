@@ -15,7 +15,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/saylee-ramteke-839985369/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/RkeSuy24567"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:rsaylee1202@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -25,8 +25,8 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,react,mysql,solidity,git,github,vercel&perline=6" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,react,mysql,solidity,git,github,vercel" />
 </p>
 
 ---
